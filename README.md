@@ -1,3 +1,5 @@
+Danilo Torres Intriago
+
 [![Build Status](https://travis-ci.org/microservices-demo/microservices-demo.svg?branch=master)](https://travis-ci.org/microservices-demo/microservices-demo)
 
 # Sock Shop : A Microservice Demo Application
