@@ -35,4 +35,5 @@ Use [Weave Scope](http://weave.works/products/weave-scope/) or [Weave Cloud](htt
 Integrantes:
 	Leonardo Castro
 	Danilo Torres Intriago
+	Jouberth Gambarrotti
 	
