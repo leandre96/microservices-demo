@@ -1,5 +1,3 @@
-Danilo Torres Intriago
-
 [![Build Status](https://travis-ci.org/microservices-demo/microservices-demo.svg?branch=master)](https://travis-ci.org/microservices-demo/microservices-demo)
 
 # Sock Shop : A Microservice Demo Application
@@ -36,4 +34,5 @@ Use [Weave Scope](http://weave.works/products/weave-scope/) or [Weave Cloud](htt
 # Proyecto Sistemas Distribuidos 2019 1T
 Integrantes:
 	Leonardo Castro
+	Danilo Torres Intriago
 	
